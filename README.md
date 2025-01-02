@@ -4,7 +4,7 @@ Welcome to the Bistro Boss Client with cart repository. This project includes a 
 ## New Packages Used
 
 ### @tanstack/react-query
-- **Description:** @tanstack/react-query is a powerful data-fetching library for React applications. It simplifies server state management by providing hooks for fetching, caching, synchronizing, and updating server state in your React components. With built-in support for background refetching, caching, and more, it enhances the developer experience and improves application performance.
+- **Description:** @tanstack/react-query is a powerful data-fetching library for React applications. It simplifies server state management by providing hooks for fetching, caching, synchronizing, and updating server state in your React components. With built-in support for background refetching, caching, & more, it enhances the developer experience and improves application performance.
 
 ## What We Did Today
 
